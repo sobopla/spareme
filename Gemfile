@@ -23,6 +23,7 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'simple_form', '~> 3.5'
 gem 'devise', '~> 4.3'
 gem 'jquery-rails'
+gem 'paperclip', '~> 5.1'
 
 
 
