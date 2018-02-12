@@ -26,7 +26,7 @@ gem 'jquery-rails'
 gem 'paperclip', '~> 5.1'
 gem 'masonry-rails', '~> 0.2.4'
 gem 'pry'
-gem 'gem 'money-rails', '~>1'
+gem 'money-rails', '~>1'
 
 
 
