@@ -24,6 +24,10 @@ gem 'simple_form', '~> 3.5'
 gem 'devise', '~> 4.3'
 gem 'jquery-rails'
 gem 'paperclip', '~> 5.1'
+gem 'masonry-rails', '~> 0.2.4'
+gem 'pry'
+gem 'gem 'money-rails', '~>1'
+
 
 
 

@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  vendor: MyString
+  paid: 1.5
+  trans_id: 1
+  rounded: 1.5
+  donated: false
+
+two:
+  vendor: MyString
+  paid: 1.5
+  trans_id: 1
+  rounded: 1.5
+  donated: false
